@@ -1,19 +1,17 @@
 # Inception v3 Image Recognition
 
-![Inception v3 Logo](inception_logo.png)
-
-Welcome to PicDetect project! This repository contains code for an image recognition application powered by the Inception v3 convolutional neural network architecture. With this application, you can upload images captured directly from your phone and receive accurate predictions about the content within them.
+Welcome to my PicDetect project! This repository contains code for an image recognition application powered by the Inception v3 convolutional neural network architecture. With this application, you can upload images captured directly from your phone and receive accurate predictions about the content within them.
 
 ## Features
 
 - **Powerful Recognition**: Utilizes the advanced capabilities of Inception v3 to accurately identify objects, scenes, and patterns within images.
-- **User-friendly Interface**: Provides a intuitive interface for uploading images and viewing recognition results.
+- **User-friendly Interface**: Provides an intuitive interface for uploading images and viewing recognition results.
 - **Real-time Analysis**: Performs image recognition in real-time, delivering swift and precise predictions.
 
 
 ## Technologies Used 
 
-- **Swift**: This app is written in Xcode using Swift programming language
+- **Swift**: This app is written in Xcode using the Swift programming language
 - **CoreML**: used to integrate machine learning model
 - **Inception V3**: used for image analysis and object detection
 
