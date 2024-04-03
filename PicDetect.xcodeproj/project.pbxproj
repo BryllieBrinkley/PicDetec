@@ -14,6 +14,7 @@
 		460CAEA62BBDB55B00603B9B /* PicDetect.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 460CAEA42BBDB55B00603B9B /* PicDetect.xcdatamodeld */; };
 		460CAEA82BBDB55E00603B9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 460CAEA72BBDB55E00603B9B /* Assets.xcassets */; };
 		460CAEAB2BBDB55E00603B9B /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 460CAEAA2BBDB55E00603B9B /* Base */; };
+		460CAEB32BBDBA2B00603B9B /* Inceptionv3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 460CAEB22BBDBA2B00603B9B /* Inceptionv3.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		460CAEA72BBDB55E00603B9B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		460CAEAA2BBDB55E00603B9B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		460CAEAC2BBDB55E00603B9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		460CAEB22BBDBA2B00603B9B /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Inceptionv3.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				460CAE9B2BBDB55B00603B9B /* AppDelegate.swift */,
 				460CAE9D2BBDB55B00603B9B /* SceneDelegate.swift */,
 				460CAE9F2BBDB55B00603B9B /* ViewController.swift */,
+				460CAEB22BBDBA2B00603B9B /* Inceptionv3.mlmodel */,
 				460CAEA12BBDB55B00603B9B /* Main.storyboard */,
 				460CAEA72BBDB55E00603B9B /* Assets.xcassets */,
 				460CAEA92BBDB55E00603B9B /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				460CAEB32BBDBA2B00603B9B /* Inceptionv3.mlmodel in Sources */,
 				460CAEA02BBDB55B00603B9B /* ViewController.swift in Sources */,
 				460CAE9C2BBDB55B00603B9B /* AppDelegate.swift in Sources */,
 				460CAE9E2BBDB55B00603B9B /* SceneDelegate.swift in Sources */,
