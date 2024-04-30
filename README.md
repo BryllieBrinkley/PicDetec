@@ -1,6 +1,6 @@
-# Inception v3 Image Recognition
+# PicDetect
 
-Welcome to my PicDetect project! This repository contains code for an image recognition application powered by the Inception v3 convolutional neural network architecture. With this application, you can upload images captured directly from your phone and receive accurate predictions about the content within them.
+Welcome to my PicDetect project! This repository contains code for an image recognition application powered by the Inception v3 convolutional neural network architecture. With this application, you can capture images directly from your phone and receive accurate predictions about the content within them.
 
 ## Features
 
